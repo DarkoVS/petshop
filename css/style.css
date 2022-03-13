@@ -1,0 +1,114 @@
+
+
+
+.p {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.numeros {
+  list-style: none;
+  display: flex;
+}
+
+.L li {
+  list-style: none;
+}
+
+.L ul {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 3rem;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card-1,
+.card-2,
+.card-3 {
+  
+  text-align: center;
+  background-color: #FBFAF6;
+}
+
+.button {
+  border: 1px solid #f0a83e;
+  background-color: #f0a83e;
+  padding: 0.5rem;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+.plato {
+    width: 100%;
+}
+
+.p h3 {
+    color:#f0a83e ;
+}
+
+/* CONTACTO */
+
+.contacto  h2 {
+    text-align: center;
+    color: #3C2313;
+    margin-bottom: 3rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form h4 {
+border: 1px solid #3C2313;
+padding: 0.5rem;
+border-radius: 15px;
+background-color: #3C2313;
+color: white;
+}
+
+
+/* nav */
+
+nav {
+    border: solid 1px #F0A83E;
+    height: 62px;
+    width: 100%;
+    background-color: #F0A83E;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.nav li {
+    list-style: none;
+    
+}
+
+.xnav-items {
+    display: flex;
+}
+
+.logo img {
+    display: inline-block;
+    vertical-align: middle;
+    
+  
+}
+
+
+
+
+
+
